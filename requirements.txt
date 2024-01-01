@@ -1,0 +1,5 @@
+ctransformers==0.2.5  #use to load the Quantized Model
+sentence-transformers==2.2.2 #for embedding generation
+pinecone-client
+langchain
+flask
